@@ -1,4 +1,6 @@
 require 'spec_helper'
+require_relative '../lib/dog'
+require_relative '../lib/person'
 
 describe 'Dog' do
   it 'is defined' do
